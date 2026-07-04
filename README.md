@@ -90,3 +90,14 @@ Movie-Recommendation-System/
 - User authentication
 - Deploy on Streamlit Cloud
 
+
+## Note
+
+The `similarity.pkl` file is not included in this repository because it exceeds GitHub's file size limit (100 MB).
+
+To run the project:
+1. Open the Jupyter Notebook.
+2. Run all cells to generate `similarity.pkl`.
+3. Run the Streamlit app:
+   python -m streamlit run app.py
+
